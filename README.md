@@ -12,4 +12,4 @@ The no. of epochs of chandler’s  and rachel’s models  has been set to 10 (wh
 chat bots are much better that tony stark’s chat bot in this case.)
 
 
-Credit of the code and idea: https://www.youtube.com/watch?v=UjDpW_SOrlw  --> WATCH THIS FOR CLEAR UNDERSTANDING!!!
+Credit of the code and idea (from freecodecamp.org and Lynn zheng): https://www.youtube.com/watch?v=UjDpW_SOrlw  --> WATCH THIS FOR CLEAR UNDERSTANDING!!!
