@@ -8,7 +8,7 @@ The following procedure is an example for the Rachel Green bot:
 5. Use uptime robot to use the bot indefinitely --> https://uptimerobot.com/
 
 (The no. of epochs of tony stark’s model has been set to 4 and I’ve used dialoGPT-small whereas
-The no. of epochs of chandler’s  and rachel’s models  has been set to 10 and I’ve used dialoGPT-medium so these
+The no. of epochs of chandler’s  and rachel’s models  has been set to 10 (when doing this set the batch size to 2!) and I’ve used dialoGPT-medium so these
 chat bots are much better that tony stark’s chat bot in this case.)
 
 
