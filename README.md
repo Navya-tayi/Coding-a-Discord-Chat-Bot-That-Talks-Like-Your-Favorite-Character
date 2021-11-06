@@ -1,7 +1,10 @@
-Credit of the code and idea (from freecodecamp.org and Lynn zheng): https://www.youtube.com/watch?v=UjDpW_SOrlw  --> WATCH THIS FOR CLEAR UNDERSTANDING!!!
+
 
 # Coding-a-Discord-Chat-Bot-That-Talks-Like-Your-Favorite-Character
 Use AI to create a Discord chat bot that talks like your favorite characters
+
+Credit of the code and idea (from freecodecamp.org and Lynn zheng): https://www.youtube.com/watch?v=UjDpW_SOrlw  --> WATCH THIS FOR CLEAR UNDERSTANDING!!!
+
 The following procedure is an example for the Rachel Green bot:
 1. Add the Chandler Bing Script.txt and parse_script_chandler.ipynb to your google drive and convert the txt into a csv file
 2. Upload model_train_rachel_model.ipynb to your google drive and open with google colab and run the code
