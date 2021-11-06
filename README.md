@@ -1,3 +1,5 @@
+Credit of the code and idea (from freecodecamp.org and Lynn zheng): https://www.youtube.com/watch?v=UjDpW_SOrlw  --> WATCH THIS FOR CLEAR UNDERSTANDING!!!
+
 # Coding-a-Discord-Chat-Bot-That-Talks-Like-Your-Favorite-Character
 Use AI to create a Discord chat bot that talks like your favorite characters
 The following procedure is an example for the Rachel Green bot:
@@ -12,4 +14,4 @@ The no. of epochs of chandler’s  and rachel’s models  has been set to 10 (wh
 chat bots are much better that tony stark’s chat bot in this case.)
 
 
-Credit of the code and idea (from freecodecamp.org and Lynn zheng): https://www.youtube.com/watch?v=UjDpW_SOrlw  --> WATCH THIS FOR CLEAR UNDERSTANDING!!!
+
